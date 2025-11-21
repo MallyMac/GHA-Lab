@@ -1,2 +1,3 @@
 print("Hello world!")
-def
+
+print("This is my GitHub Actions lab!")
